@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Welcome to Endoscopy Superstore!\nHere, your hard-earned coins can be traded for exclusive discounts.\nRedeem your rewards anytime at www.endoscopysuperstore.com.\n<<Finished>>\n...",
+		"position": {
+			"x": 82,
+			"y": -95
+		},
+		"colorID": 0
+	},
+	{
+		"title": "End",
+		"tags": "",
+		"body": "Thank you for playing Repocalypse!\nAll your discount codes can be redeemed at www.endoscopysuperstore.com.\nRemember that discount codes are case sensitive!\nSubscribe to be the first to know about added levels, new games, and more!\n<<Finished>>\n...",
+		"position": {
+			"x": -331,
+			"y": -143
+		},
+		"colorID": 0
+	}
+]
